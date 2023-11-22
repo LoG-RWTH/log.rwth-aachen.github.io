@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: We offer classes and seminar courses throughout semesters.
+permalink: /teaching/
+description: We offer courses throughout semesters.
 nav: true
-nav_order: 4
+nav_order: 2
+horizontal: false
 ---
 
 <html>
@@ -16,11 +17,11 @@ nav_order: 4
     </tr>
     <tr>
         <td>WS 23/24 &emsp;</td>
-        <td><a href="https://chrsmrrs.github.io/WS23/foundations_of_graph_ml.html">Seminar (Master): Foundations of Supervised Machine Learning with Graphs</a></td>
+        <td><a href="../teaching/ws2023/foundations_ml_in_graph.md">Seminar (Master): Foundations of Supervised Machine Learning with Graphs</a></td>
     </tr>
     <tr>
         <td></td>
-        <td><a href="https://chrsmrrs.github.io/WS23/graph_learning.html">Seminar (Bachelor): Maschinelles Lernen mit Graphen</a</td>
+        <td><a href="../teaching/ws2023/ml_mit_graphen.md">Seminar (Bachelor): Maschinelles Lernen mit Graphen</a></td>
     </tr>
     <tr>
         <td>SS 23 &emsp;</td>
@@ -28,15 +29,15 @@ nav_order: 4
     </tr>
     <tr>
         <td></td>
-        <td><a href="https://chrsmrrs.github.io/SS23/graph_learning.html">Seminar (Bachelor): Maschinelles Lernen mit Graphen</a></td>
+        <td><a href="../teaching/ss2023/ml_mit_graphen.md">Seminar (Bachelor): Maschinelles Lernen mit Graphen</a></td>
     </tr>
     <tr>
         <td>WS 22/23 &emsp;</td>
-        <td><a href="https://chrsmrrs.github.io/WS22/foundations_of_graph_ml.html">Seminar (Master): Foundations of Supervised Machine Learning with Graphs</a></td>
+        <td><a href="../teaching/ws2022/foundations_ml_in_graph.md">Seminar (Master): Foundations of Supervised Machine Learning with Graphs</a></td>
     </tr>
     <tr>
         <td></td>
-        <td><a href="https://chrsmrrs.github.io/WS22/machine_learning_for_combinatorial_optimization.html">Seminar (Master): Machine Learning for Combinatorial Optimization</a></td>
+        <td><a href="../teaching/ws2022/combinatorial_ml.md">Seminar (Bachelor): Maschinelles Lernen mit Graphen</a></td>
     </tr>
 <body>
 <html>
