@@ -8,7 +8,7 @@ permalink: /teaching/ws2022/combinatorial_ml.md/
 Combinatorial optimization is a well-established area in operations research and computer science. Until recently, its methods have focused on solving problem instances in isolation, ignoring that they often stem from related data distributions in practice. However, recent years have seen a surge of interest in using machine learning, especially graph neural networks (GNNs), as a key building block for combinatorial tasks, either directly as solvers or by enhancing exact solvers. The inductive bias of GNNs effectively encodes combinatorial and relational input due to their invariance to permutations and awareness of input sparsity. This seminar discusses recent progress at the intersection of combinatorial optimization and machine learning, with a specific focus on GNNs.
 
 <html lang="en">
-	<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1044.0" data-new-gr-c-s-loaded="14.1044.0">
+	<body>
 		<h4>Requirements for Passing</h4>
 			<div style="padding: 15px; padding-bottom: 1px; {% if site.enable_darkmode %}background-color: #888;{% else %}background-color: #e0e5e0;{% endif %}">
 			To pass the seminar, you need to fulfill the following:
