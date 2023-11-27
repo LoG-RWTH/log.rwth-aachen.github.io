@@ -7,7 +7,7 @@ permalink: /teaching/ws2023/ml_mit_graphen.md/
 Graphenstrukturierte Daten sind in vielen Anwendungsbereichen allgegenwärtig, von der Chemo- und Bioinformatik bis hin zur Analyse von Bildern und sozialen Netzwerken. Um erfolgreiche Algorithmen für das maschinelle Lernen auf Graphen zu entwickeln, benötigen wir Techniken, die die reichhaltigen Informationen, die der Graphenstruktur innewohnen, auf sinnvolle Weise auf eine vektorielle Darstellung abbilden. In diesem Proseminar werden wir grundlegende wissenschaftliche Arbeiten zu diesem Thema vorstellen und diskutieren.
 
 <html lang="en">
-	<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1044.0" data-new-gr-c-s-loaded="14.1044.0">
+	<body>
 		<!-- <div id="wrapper"> -->
 		<h4>Voraussetzungen für das Bestehen</h4>
 		<div style="padding: 15px; padding-bottom: 1px; {% if site.enable_darkmode %}background-color: #888;{% else %}background-color: #e0e5e0;{% endif %}">

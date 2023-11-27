@@ -7,8 +7,7 @@ permalink: /teaching/ws2022/foundations_ml_in_graph.md/
 Graph-structured data is ubiquitous across application domains ranging from chemo- and bioinformatics to image and social network analysis. To develop successful machine learning algorithms, we need techniques that map the rich information inherent in the graph structure to a vectorial representation in a meaningful way—so-called graph embeddings. Designing such embeddings comes with unique challenges. The embedding has to account for the complex structure of (real-world) networks and additional high-dimensional continuous vectors attached to nodes and edges in a (permutation) invariant way while being scalable to massive graphs or sets of graphs. Moreover, when used in supervised machine learning, the model trained with such embeddings must generalize well to new or previously unseen (graph) instances. Hence, more abstractly, designing graph embeddings results in a trade-off between (1) expressivity, (2) scalability, and (3) generalization. In this seminar, we want to discuss the current progress on the theoretical foundations of machine learning on graphs, penetrating the above-listed three challenges.</p>
 
 <html lang="en">
-	<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1044.0" data-new-gr-c-s-loaded="14.1044.0">
-		<div id="wrapper">
+	<body>
 		<h4>Requirements for Passing</h4>
 			<div style="padding: 15px; padding-bottom: 1px; {% if site.enable_darkmode %}background-color: #888;{% else %}background-color: #e0e5e0;{% endif %}">
 			To pass the seminar, you need to fulfill the following:
