@@ -110,11 +110,11 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 60%;
 }
 
 .profile img {
-  width: 100%;
+  width: 77%;
 }
 
 /******************************************************************************
@@ -270,7 +270,7 @@ blockquote {
 ul {
   list-style: none;
   display: flex;
-  margin-right: 85%;
+  margin-right: 39%;
   margin-left: auto;
 }
 
@@ -371,9 +371,9 @@ ul {
 }
 
 .logo img {
-  max-width: 30%;
+  max-width: 40%;
   height: auto;
-  margin-left: 54%; /* Adjust as needed */
+  margin-left: 49%; /* Adjust as needed */
   margin-right: auto;
   flex-shrink: 0; /* Prevent logo from shrinking too much in a small container */
 }
