@@ -11,7 +11,6 @@ horizontal: false
 
 <!-- pages/people.md -->
 <div class="teams">
-  <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_people = site.people | where: "category", category -%}
