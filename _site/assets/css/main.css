@@ -270,7 +270,7 @@ blockquote {
 ul {
   list-style: none;
   display: flex;
-  margin-right: 85%;
+  margin-right: 39%;
   margin-left: auto;
 }
 
@@ -603,9 +603,6 @@ footer.sticky-bottom {
   padding-top: 0.5rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  text-align: left;
-}
-.teams .team-description {
   text-align: left;
 }
 
