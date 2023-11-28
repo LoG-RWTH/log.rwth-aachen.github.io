@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Daniel Kusuma
-description: daniel.kusuma@rwth-aachen.de
+email: daniel.kusuma@rwth-aachen.de
+github: ksmdnl
 importance: 2
 category: Student Assistant
 ---
