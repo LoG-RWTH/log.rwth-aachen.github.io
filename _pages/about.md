@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-At the Learning on Graphs Lab, led by Prof. Dr. Christopher Morris at the Chair of Machine Learning and Reasoning at RWTH Aachen University, we are developing theoretical and practical approaches for machine learning on graphs. Machine learning on graphs is a relatively new field in machine learning that focuses on the structure of data and develops machine learning methods that automatically make predictions about properties of graphs. 
+At the Learning on Graphs Lab, led by <a href='https://www.christophermorris.info'>Christopher Morris</a> at the Chair of Machine Learning and Reasoning at RWTH Aachen University, we are developing theoretical and practical approaches for machine learning on graphs. Machine learning on graphs is a relatively new field in machine learning that focuses on the structure of data and develops machine learning methods that automatically make predictions about the properties of graphs. 
 
-The work in our lab is characterized by always examining practical methods in terms of their theoretical properties. We are happy to work with interested and dedicated students on these problems.
+Our work is characterized by examining practical methods in terms of their theoretical properties. We are happy to work with interested and dedicated students on these problems.
