@@ -527,53 +527,6 @@ footer.sticky-bottom {
   }
 }
 
-
-// Projects
-
-.projects {
-  a {
-    text-decoration: none;
-
-    &:hover {
-      .card-title {
-        color: var(--global-theme-color);
-      }
-    }
-  }
-
-  .card {
-    img {
-      width: 100%;
-    }
-  }
-
-  .card-item {
-    width: auto;
-    margin-bottom: 10px;
-
-    .row {
-      display: flex;
-      align-items: center;
-    }
-  }
-
-  .grid-sizer,
-  .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
-    // width: 45%
-  }
-
-  h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    text-align: right;
-  }
-}
-
 // People
 
 .teams {
@@ -603,11 +556,16 @@ footer.sticky-bottom {
     }
   }
 
+  .card-body {
+    height: 270px;
+    overflow: hidden;
+  }
+
   .grid-sizer,
   .grid-item {
-    width: 100%;
     margin-bottom: 10px;
-    width: 45%
+    margin-right: 3%;
+    width: 45%;
   }
 
   h2.category {
@@ -617,7 +575,15 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: left;
+    width: 94%;
   }
+
+  .github-icon {
+    position: absolute;
+    bottom: 3%;
+    left: 5%;
+    width: 100%;
+  } 
 }
 
 // Publications
