@@ -18,12 +18,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-At the Learning on Graphs Lab, led by <a href='https://chrsmrrs.github.io/'>Christopher Morris</a> at the Chair of Machine Learning and Reasoning at RWTH Aachen University, we are developing theoretical and practical approaches for machine learning on graphs. Machine learning on graphs is a relatively new field in machine learning that focuses on the structure of data and develops machine learning methods that automatically make predictions about the properties of graphs. 
-
-Our work is characterized by examining practical methods in terms of their theoretical properties. We are happy to work with interested and dedicated students on these problems.
 
 <html>
 	<body>
+	<p>
+	At the Learning on Graphs Lab, led by <a href='https://chrsmrrs.github.io/'>Christopher Morris</a> at the Chair of Machine Learning and Reasoning at RWTH Aachen University, we are developing theoretical and practical approaches for machine learning on graphs. Machine learning on graphs is a relatively new field in machine learning that focuses on the structure of data and develops machine learning methods that automatically make predictions about the properties of graphs. 
+	Our work is characterized by examining practical methods in terms of their theoretical properties.
+	</p>
+	<p>
+	We are happy to work with interested and dedicated students on these problems.
+	</p>
     {% if site.enable_darkmode -%}
 		<div class="note-dark">
       If you are interested, please reach out to us via <a href="mailto:morris@cs.rwth-aachen.de" title="email">morris[ät]cs.rwth-aachen[dot]de</a> with (Subject: "[Thesis]") and answer the following questions:
