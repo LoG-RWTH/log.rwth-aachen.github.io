@@ -9,7 +9,7 @@ Graph-structured data is ubiquitous across application domains ranging from chem
 <html lang="en">
 	<body>
 		<h4>Requirements for Passing</h4>
-		<div style="padding: 15px; padding-bottom: 1px; {% if site.enable_darkmode %}background-color: #888;{% else %}background-color: #e0e5e0;{% endif %}">
+		<div class="note-dark">
 			To pass the seminar, you need to fulfill the following:
 			<br>
 				<ol>
