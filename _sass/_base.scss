@@ -81,6 +81,21 @@ blockquote {
   text-align: center;
 }
 
+// Note
+
+.note-dark {
+  padding: 15px;
+  padding-bottom: 1px;
+  background-color: rgb(152, 150, 150);
+  width: 64%;
+}
+.note-light {
+  padding: 15px;
+  padding-bottom: 1px;
+  background-color: rgb(4, 99, 163);
+  width: 60%;
+}
+
 // Card
 
 .card {
