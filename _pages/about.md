@@ -22,41 +22,15 @@ social: true  # includes social icons at the bottom of the page
 <html>
 	<body>
 	<p>
-	At the Learning on Graphs Lab, led by <a href='https://chrsmrrs.github.io/'>Christopher Morris</a> at the Chair of Machine Learning and Reasoning at RWTH Aachen University, we are developing theoretical and practical approaches for machine learning on graphs. Machine learning on graphs is a relatively new field in machine learning that focuses on the structure of data and develops machine learning methods that automatically make predictions about the properties of graphs. 
+	At the Learning on Graphs Lab, led by <a href='https://chrsmrrs.github.io/'>Christopher Morris</a> at the Chair of Machine Learning and Reasoning at RWTH Aachen University, we are developing theoretical and practical approaches for machine learning on graphs.
+	</p>
+	<p>
+	Machine learning on graphs is a relatively new field in machine learning that focuses on the structure of data and develops machine learning methods that automatically make predictions about the properties of graphs. 
 	Our work is characterized by examining practical methods in terms of their theoretical properties.
 	</p>
 	<p>
-	We are happy to work with interested and dedicated students on these problems.
+	We are happy to work with interested and dedicated students on these problems. Refer to this <a href="../teaching/thesis.md">thesis guidlines</a> for further information.
 	</p>
-    {% if site.enable_darkmode -%}
-		<div class="note-dark">
-      If you are interested, please reach out to us via <a href="mailto:morris@cs.rwth-aachen.de" title="email">morris[ät]cs.rwth-aachen[dot]de</a> with (Subject: "[Thesis]") and answer the following questions:
-			<br>
-				<ol>
-					<li>Is there a paper from my current research that interests you?</li>
-					<li>Are you leaning more towards a theoretical or applied topic?</li>
-					<li>What are your (CS-related) strength and weaknesses?</li>
-					<li>What is your ideal starting date?</li>
-				</ol>
-      Please include an up-to-date transcript of records.
-      <br>
-      <br>
-		</div>
-    {%- else -%}
-		<div class="note-light">
-      If you are interested, please reach out to us via <a href="mailto:morris@cs.rwth-aachen.de" title="email">morris[ät]cs.rwth-aachen[dot]de</a> with (Subject: "[Thesis]") and answer the following questions:
-			<br>
-				<ol>
-					<li>Is there a paper from my current research that interests you?</li>
-					<li>Are you leaning more towards a theoretical or applied topic?</li>
-					<li>What are your (CS-related) strength and weaknesses?</li>
-					<li>What is your ideal starting date?</li>
-				</ol>
-      Please include an up-to-date transcript of records.
-      <br>
-      <br>
-		</div>
-    {%- endif %}
     <br>
 	</body>
 </html>
