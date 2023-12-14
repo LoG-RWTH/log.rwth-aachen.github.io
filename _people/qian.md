@@ -7,4 +7,5 @@ room: 217
 importance: 2
 category: PhD Candidates
 github: chendiqian
+redirect: https://chendiqian.github.io/
 ---
