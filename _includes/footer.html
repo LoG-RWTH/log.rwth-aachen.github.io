@@ -1,17 +1,47 @@
     {% if site.footer_fixed %}
     <footer class="fixed-bottom">
+      <div class="i6contact">
+        <h3 class="i6contact">Contacts</h3>
+          <p class="i6text">
+            <a href="mailto:sek@hltpr.rwth-aachen.de">Stephanie Jansen</a>
+            <br>
+            Theaterstrasse 35-39, 2nd floor
+            <br>
+            52062 Aachen
+            <br>
+            Germany
+            <br>
+            Phone: +49 (241) 80-21601
+            <br>
+            RWTH Chair for Machine Learning
+          </p>
+      </div>
       <div class="container mt-0">
         &copy; Copyright {{ site.time | date: '%Y' }} Learning on Graphs Group {{ site.footer_text }}
-        {%- if site.impressum_path -%}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-        {%- endif -%}
-        {%- if site.last_updated -%}
-        Last updated: {{ "now" | date: '%B %d, %Y' }}.
-        {%- endif %}
+        <!-- {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>. -->
+        <!-- {%- endif -%} -->
+        <!-- {%- if site.last_updated -%} -->
+        <!-- Last updated: {{ "now" | date: '%B %d, %Y' }}. -->
+        <!-- {%- endif %} -->
       </div>
     </footer>
     {%- else -%}
     <footer class="sticky-bottom mt-5">
+      <div class="i6contact">
+        <h3 class="i6contact">Contacts</h3>
+          <p class="i6text">
+            <a href="mailto:sek@hltpr.rwth-aachen.de">Stephanie Jansen</a>
+            <br>
+            Theaterstrasse 35-39, 2nd floor
+            <br>
+            52062 Aachen
+            <br>
+            Phone: +49 (241) 80-21601
+            <br>
+            RWTH Chair for Machine Learning
+          </p>
+      </div>
       <div class="container">
         &copy; Copyright {{ site.time | date: '%Y' }} Learning on Graphs Group {{ site.footer_text }}
         {%- if site.impressum_path -%}

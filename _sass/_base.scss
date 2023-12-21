@@ -361,12 +361,28 @@ ul {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
-  text-align: center;
 
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+    text-align: center;
+  }
+
+  .i6contact {
+    background-color: #aaaaaa;
+    padding-top: 3px;
+    padding-bottom: 1px;
+
+    h3.i6contact {
+      color: var(--global-footer-text-color);
+      margin-left: 25.5%;
+    }
+
+    p.i6text{
+      margin-left: 25.5%;
+      color: var(--global-footer-text-color);
+    }
   }
 
   a {
@@ -380,10 +396,41 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
+  // border-top: 1px solid var(--global-divider-color);
+  // font-size: 0.9rem;
+  // background-color: var(--global-footer-bg-color);
+  // background-color: #878585;
+  background-color: #d1cfcf;
+  font-size: 0.75rem;
+
+  .container {
+    // color: var(--global-footer-text-color);
+    color: black;
+    padding-top: 9px;
+    padding-bottom: 8px;
+    text-align: center;
+  }
+
+  .i6contact {
+    background-color: #e2dfdf;
+    // color: black
+    // color: var(--global-footer-text-color);
+    padding-top: 3px;
+    padding-bottom: 1px;
+
+    h3.i6contact {
+      padding-top: 9px;
+      color: var(--global-footer-text-color);
+      margin-left: 25.5%;
+      color: black;
+    }
+
+    p.i6text{
+      margin-left: 25.5%;
+      color: var(--global-footer-text-color);
+      color: black;
+    }
+  }
 }
 
 /* Add styling for the contact section */
