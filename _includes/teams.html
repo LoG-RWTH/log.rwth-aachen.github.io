@@ -14,11 +14,10 @@
         {%- endif %}
         <div class="card-body">
             <h2>{{ people.title }}</h2>
-            {% assign email = people.email %}
-            <a href="mailto:{{ email }}">{{ email }}</a>
+            <span style="color: black; font-size: 0.9rem;">Email: </span><a style="font-size: 0.9rem;" href="mailto:{{ people.email }}">{{ people.email_vis }}</a>
             <div class="post-description">
               {% if people.room != blank -%}
-                Room {{ people.room }}
+                Room: {{ people.room }}
               {% endif %}
               <br>
               {{ people.description }}
