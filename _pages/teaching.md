@@ -18,6 +18,10 @@ horizontal: false
         <th></th>
     </tr>
     <tr>
+        <td>SS 24 &emsp;</td>
+        <td>Class (Bachelor + Master): Foundations and Applications of Machine Learning with Graphs</td>
+    </tr>
+    <tr>
         <td>WS 23/24 &emsp;</td>
         <td><a href="../teaching/ws2023/foundations_ml_in_graph.md">Seminar (Master): Foundations of Supervised Machine Learning with Graphs</a></td>
     </tr>
