@@ -11,6 +11,7 @@ horizontal: false
 
 <!-- pages/people.md -->
 <div class="teams">
+  <img src="/assets/img/team.jpg" alt="LoG Team" style="width:100%;height:100%;">
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_people = site.people | where: "category", category -%}

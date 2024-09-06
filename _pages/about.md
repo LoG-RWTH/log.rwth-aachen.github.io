@@ -6,7 +6,7 @@ subtitle: <a href='https://www.rwth-aachen.de'>RWTH Aachen University</a>.
 
 profile:
   align: right
-  image: prof_pic_rectangle.png
+  image: home.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Theaterstraße 35-39</p>
