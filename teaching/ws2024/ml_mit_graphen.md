@@ -26,7 +26,7 @@ Graphenstrukturierte Daten sind in vielen Anwendungsbereichen allgegenwärtig, v
 		<br>
 		<br>
 		<h4>Ausarbeitung</h4>
-			Die Ausarbeitung sollte einen detaillierten Überblick über die gewählte/zugeteilte Paper geben. Die erforderliches Länge beträgt zehn Seiten unter Verwendung der bereitgestellten <a href="./seminar_template.zip" download>LaTeX-Vorlage</a>. Das bedeutet, dass Sie nach der Zuteilung des Paper Ihre Ausarbeitung schreiben und sie zum "Peer-Review" durch Ihre KommilitonenInnen einreichen. Sie erhalten konstruktives Feedback zur Verbesserung der Arbeit; danach erhalten Sie zusätzliches Feedback von den Seminarveranstaltern. Sie können dann eine aktualisierte, endgültige Version einreichen, die benotet wird. Beachten Sie, dass dies bedeutet, dass Sie auch einige kurze Rezensionen zu einer Ausarbeitung einer Ihrer KommilitonenInnen schreiben müssen.
+			Die Ausarbeitung sollte einen detaillierten Überblick über die gewählte/zugeteilte Paper geben. Die erforderliches Länge beträgt zehn Seiten unter Verwendung der bereitgestellten <a href="https://github.com/LoG-RWTH/LoG-RWTH.github.io/blob/main/teaching/ws2024/seminar_template.zip" download>LaTeX-Vorlage</a>. Das bedeutet, dass Sie nach der Zuteilung des Paper Ihre Ausarbeitung schreiben und sie zum "Peer-Review" durch Ihre KommilitonenInnen einreichen. Sie erhalten konstruktives Feedback zur Verbesserung der Arbeit; danach erhalten Sie zusätzliches Feedback von den Seminarveranstaltern. Sie können dann eine aktualisierte, endgültige Version einreichen, die benotet wird. Beachten Sie, dass dies bedeutet, dass Sie auch einige kurze Rezensionen zu einer Ausarbeitung einer Ihrer KommilitonenInnen schreiben müssen.
 		<br>
 		<br>
 		<h4>Organisation</h4>
