@@ -18,6 +18,14 @@ horizontal: false
         <th></th>
     </tr>
     <tr>
+        <td>WS 24/25</td>
+        <td><a href="../teaching/ws2024/ml_mit_graphen.md">Proseminar (Bachelor): Maschinelles Lernen mit Graphen</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><a href="../teaching/ws2024/tf_on_graph.md">Seminar (Master): Transformer on Graphs</a></td>
+    </tr>
+    <tr>
         <td>SS 24 &emsp;</td>
         <td>Class (Bachelor + Master): Foundations and Applications of Machine Learning with Graphs</td>
     </tr>
