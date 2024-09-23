@@ -25,7 +25,7 @@ Graph-structured data is ubiquitous across application domains ranging from chem
 		<br>
 		<br>
 		<h4>Reports</h4>
-			The report gives a detailed overview of the choosen/assigned paper. The required report length is 12 to 15 pages, using the provided LaTeX <a href="../seminar_template.zip">template</a>. This means that after you get your paper assigned, you write your report and submit it for "peer review" by your fellow students. You will receive constructive feedback to improve the paper; afterward, you will receive additional feedback from the seminar organizers. You can then submit an updated, final version, which will be graded. Note that this means that you will also have to write some short reviews on the reports by your fellow students.
+			The report gives a detailed overview of the choosen/assigned paper. The required report length is 12 to 15 pages, using the provided LaTeX <a href="../seminar_template.zip" download>template</a>. This means that after you get your paper assigned, you write your report and submit it for "peer review" by your fellow students. You will receive constructive feedback to improve the paper; afterward, you will receive additional feedback from the seminar organizers. You can then submit an updated, final version, which will be graded. Note that this means that you will also have to write some short reviews on the reports by your fellow students.
 		<br>
 		<br>
 		<h4>Organization</h4>
