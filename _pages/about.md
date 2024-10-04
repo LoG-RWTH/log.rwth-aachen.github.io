@@ -29,7 +29,7 @@ social: true  # includes social icons at the bottom of the page
 	Our work is characterized by examining practical methods in terms of their theoretical properties.
 	</p>
 	<p>
-	We are happy to work with interested and dedicated students on these problems. Refer to this <a href="../teaching/thesis.md">thesis guidlines</a> for further information.
+	We are happy to work with interested and dedicated students on these problems. Refer to this <a href="../teaching/thesis.md">thesis guidelines</a> for further information.
 	</p>
     <br>
 	</body>

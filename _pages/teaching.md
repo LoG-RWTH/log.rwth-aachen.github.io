@@ -57,6 +57,6 @@ horizontal: false
 <br>
 <br>
 <h4><b>Thesis Guidelines</b></h4>
-<p> We also offer a supervision over thesis works for RWTH students. For further information please refer to this <a href="../teaching/thesis.md">thesis guidlines</a>.</p>
+<p> We also offer a supervision over thesis works for RWTH students. For further information please refer to this <a href="../teaching/thesis.md">thesis guidelines</a>.</p>
 <body>
 <html>
