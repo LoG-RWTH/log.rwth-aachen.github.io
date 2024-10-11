@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 	At the Learning on Graphs group, led by <a href='https://chrsmrrs.github.io/'>Christopher Morris</a> at the Chair of Machine Learning and Reasoning at RWTH Aachen University, we are developing theoretical and practical approaches to machine learning on graphs. Machine learning on graphs is a relatively new field in machine learning that develops methods that automatically make predictions about graph properties. Our work is characterized by examining practical methods in terms of their theoretical properties.
 	</p>
 	<p>
-	We are happy to work with interested and dedicated students on these problems. Refer to <a href="../teaching/thesis.md">thesis guidlines</a> for further information.
+	We are happy to work with interested and dedicated students on these problems. Refer to <a href="../teaching/thesis.md">thesis guidelines</a> for further information.
 	</p>
     <br>
 	</body>
